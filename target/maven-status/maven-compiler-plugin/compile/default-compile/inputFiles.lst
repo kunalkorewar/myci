@@ -1,11 +1,11 @@
-/root/myci/src/main/java/com/hellokoding/account/service/SecurityService.java
-/root/myci/src/main/java/com/hellokoding/account/repository/UserRepository.java
-/root/myci/src/main/java/com/hellokoding/account/service/UserDetailsServiceImpl.java
-/root/myci/src/main/java/com/hellokoding/account/service/UserService.java
-/root/myci/src/main/java/com/hellokoding/account/model/User.java
-/root/myci/src/main/java/com/hellokoding/account/service/SecurityServiceImpl.java
-/root/myci/src/main/java/com/hellokoding/account/model/Role.java
-/root/myci/src/main/java/com/hellokoding/account/repository/RoleRepository.java
-/root/myci/src/main/java/com/hellokoding/account/validator/UserValidator.java
-/root/myci/src/main/java/com/hellokoding/account/web/UserController.java
-/root/myci/src/main/java/com/hellokoding/account/service/UserServiceImpl.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\model\Role.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\service\UserDetailsServiceImpl.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\model\User.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\repository\UserRepository.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\service\UserService.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\web\UserController.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\service\SecurityServiceImpl.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\validator\UserValidator.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\repository\RoleRepository.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\service\UserServiceImpl.java
+D:\Revision\New folder\Aws_DevOps_Practice\CI\mahalogin\src\main\java\com\hellokoding\account\service\SecurityService.java
